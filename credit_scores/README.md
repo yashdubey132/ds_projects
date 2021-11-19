@@ -2,13 +2,13 @@
 
 We are analyzing a dataset of loanees across several parameters such as income, children, marital status, purpose of loan and education level. Using this analysis, we will attempt to create a report that will aid in the building of a credit score of a potential customer. We will avoid profiling users by gender as the four parameters we need to look for are:
 
-1.Number of children
+- 1. Number of children
 
-2.Marital Status
+- 2. Marital Status
 
-3.Total Income
+- 3. Total Income
 
-4.Purpose of Loan
+- 4. Purpose of Loan
 
 ## Data
 
