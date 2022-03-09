@@ -17,3 +17,9 @@ The data contains user behaviour information:
 - _pandas_
 - _numpy_
 - _scikit-learn_
+
+## Models Used
+
+- Linear Regression
+- Decision Tree Regressor
+- Random Forest Regressor
