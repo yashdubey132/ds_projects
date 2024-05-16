@@ -1,4 +1,4 @@
-# Data Sciences Project
+# Data Science Projects
 Projects and Challenges related to Data Analytics and Data Science
 ## Project List:
 | Project Name                       | Description                                                                                                                 | Libraries Used           |
