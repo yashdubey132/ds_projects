@@ -1,5 +1,5 @@
 # Data Science Projects
-Projects and Challenges related to Data Analytics and Data Science
+Projects and Challenges related to Data Analytics and Data Science. All projects here were either conducted during competitions, hackathons or as hobby projects.
 ## Project List:
 | Project Name                       | Description                                                                                                                 | Libraries Used           |
 |------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|--------------------------|
